@@ -20,11 +20,13 @@
 	padding-left: 14px; 
 	padding-right: 14px;
 	margin: 0px auto;
+   
 }
 
 .row {
 	margin-left: -14px;
 	margin-right: -14px;
+    
 }
 
 .row:before, .row:after{

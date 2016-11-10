@@ -1,1 +1,215 @@
 /* Inserta tu código aqui */
+
+.header {
+    background-color: #322F2F;
+    color: white;
+    text-align: center;
+    margin: auto;
+}
+
+
+.menu{
+    margin:auto;
+    text-align: center;
+    
+}
+
+.menu img{
+    width: 65%;
+    
+}
+
+.menu ul{
+    list-style: none;
+    text-align: center;
+    margin-top: 40px;
+    
+   
+}
+
+.menu ul li {
+    display: inline-block;
+    text-align: center;
+    margin-left: 20px;
+   }
+
+
+.menu ul li a{
+     text-decoration: none;
+     color: white;
+     font-family: 'Ubuntu', sans-serif;
+  
+    
+}
+
+.primero {
+    background-color: gainsboro;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    }
+
+.titulos{
+    text-align: left;
+    margin: 0;
+    padding: 10px;
+}
+
+.titulos ul{
+    list-style: none;
+}
+
+.titulos ul li{
+    display: inline-block;
+    font-family: sans-serif;
+    text-decoration: none;
+    
+    }
+
+.titulos ul li a {
+    text-decoration: none;
+    font-family: 'Anton', sans-serif;
+    color: slateblue;
+    font-size: 12px;
+    
+}
+
+.bloque img{
+    
+    width: 100%;
+    border: 4px double white;
+  }
+
+.bloque a{
+    text-decoration: none;
+    color: slateblue;
+    font-family: 'Anton', sans-serif;
+    
+}
+
+.segundo{
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin: auto;
+    
+}
+.dosespacios{
+    width: 75%;
+    background-color: white;
+    color: white;
+    padding: 20px;
+    
+}
+
+.opciones{
+    
+    width: 25%;    
+    height: 100%;
+    background-color: white;
+    color: black;
+    padding: 20px;
+      
+}
+
+.dosespacios img{
+    width: 120px;
+    border: 2px solid #D8d8d8;
+    margin: 2px;
+    
+}
+
+.dosespacios ul{
+    list-style: none;
+    float: left;
+   
+}
+
+.dosespacios ul li{
+    display: inline-block;
+     width: 120px;
+    height: 10px;
+    text-align: center;
+    margin: 4px;
+}
+
+.dosespacios ul li a{
+     text-decoration: none;
+     color: blue;
+     font-family: 'Ubuntu', sans-serif;
+}
+
+.dosespacios ul li a p{
+    text-align: center;
+    font-size: 12px;
+    
+}
+
+.opciones ul{
+    list-style: none;
+    padding: 20px;
+    
+}
+
+.opciones ul li img {
+    width: 15px;
+    padding: 2px;
+}
+
+.opciones a {
+    text-decoration: none;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 10px;
+    }
+
+.opciones li{
+    text-align: left;
+    font-size: 12px;
+}
+
+.opciones p{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    text-align: left;
+    font-weight: bold;
+    color: grey;
+}
+
+.final{
+    background-color: #322F2F;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    
+}
+
+
+.pie ul li {
+    display: inline-block;
+    padding: 15px;
+    }
+
+.pie p{
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 2;
+    text-align: center;
+}
+
+.pie a {
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: none;
+    color: darkgray;
+    margin: 5px;
+    
+}
+
+
+
+
+
+
+
+
+
+
