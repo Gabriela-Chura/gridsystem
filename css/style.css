@@ -165,6 +165,7 @@
 .opciones li{
     text-align: left;
     font-size: 12px;
+    
 }
 
 .opciones p{
@@ -173,6 +174,7 @@
     text-align: left;
     font-weight: bold;
     color: grey;
+    line-height: 1.6;
 }
 
 .final{
